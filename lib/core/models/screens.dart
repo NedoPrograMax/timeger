@@ -1,0 +1,4 @@
+enum Screens {
+  login,
+  main;
+}
